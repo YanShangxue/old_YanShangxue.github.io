@@ -25,12 +25,16 @@
 > > >   * 啦啦啦
 > > >   + 拉了拉拉拉来到拉萨了
 
-'printf()' 函数
+'printf(我都不知道这代码有啥用)' 函数
   javascript
 $(document).ready(function () {
     alert('RUNOOB');
 });
 
+
 这是一个链接 [菜鸟教程](https://www.runoob.com)
 
 这是一个链接 [百度](https://www.baidu.com)
+
+![一个网上找的图片](http://static.runoob.com/images/runoob-logo.png)
+![一个网上找的图片](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fattach.bbs.miui.com%2Fforum%2F201304%2F25%2F195133e7a1l7b4f5117y4y.jpg&refer=http%3A%2F%2Fattach.bbs.miui.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1619766196&t=3d633e2336bd219ba35c5363b2d2a7ad)
