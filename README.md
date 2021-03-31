@@ -24,6 +24,13 @@
 > > > 2.略略略
 > > >   * 啦啦啦
 > > >   + 拉了拉拉拉来到拉萨了
+
+'printf()' 函数
+  javascript
+$(document).ready(function () {
+    alert('RUNOOB');
+});
+
 这是一个链接 [菜鸟教程](https://www.runoob.com)
 
 这是一个链接 [百度](https://www.baidu.com)
