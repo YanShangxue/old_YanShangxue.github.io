@@ -24,7 +24,7 @@
 > > >  * 啦啦啦
 > > >  + 拉了拉拉拉来到拉萨了
 
-'printf(我都不知道这代码有啥用)' 函数
+'printf(我其实不太清楚这个功能怎么用)' 函数
   javascript
 $(document).ready(function () {
     alert('RUNOOB');
