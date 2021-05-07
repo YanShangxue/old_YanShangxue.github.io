@@ -1,0 +1,6 @@
+I"�<p>‘printf(我其实不太清楚这个功能怎么用)’ 函数
+  javascript
+$(document).ready(function () {
+    alert(‘RUNOOB’);
+});</p>
+:ET

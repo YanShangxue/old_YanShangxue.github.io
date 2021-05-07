@@ -1,0 +1,39 @@
+I"�<h1 id="web应用软件开发实训---第二次作业---开发一个静态网站">WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站</h1>
+<p>公网网址：https://yanshangxue.github.io/</p>
+
+<p>网站源代码Github仓库地址：https://github.com/YanShangxue/YanShangxue.github.io</p>
+<h2 id="一网站目录结构">一、网站目录结构</h2>
+<p><img src="https://note.youdao.com/yws/api/personal/file/WEBa02265ad47c5cced8e6bbeca28699bcd?method=download&amp;shareKey=c4dbaacf23ba78c844d306291efb406b" alt="结构1" />
+<img src="https://note.youdao.com/yws/api/personal/file/WEBc34a892ee76d088eb2301f819cc0ffcb?method=download&amp;shareKey=ba38d7d1f1635f7a381c0461c28e566c" alt="结构2" />
+<img src="https://note.youdao.com/yws/api/personal/file/WEB7b16b5a92c6264e83ae5500cc08bd59b?method=download&amp;shareKey=b7f63e0c78b98ddb76fd45a3a83e9f93" alt="结构3" />
+<img src="https://note.youdao.com/yws/api/personal/file/WEBfec6209e78eed477c8c07d474b6c991a?method=download&amp;shareKey=5160baa8f7aa4ae633f33bb9e1e2c736" alt="结构4" /></p>
+<h2 id="二网站截图">二、网站截图</h2>
+<ul>
+  <li>首页
+<img src="https://note.youdao.com/yws/api/personal/file/WEBc8c2f6709362db589346f8c43753e9c7?method=download&amp;shareKey=3ff72b2a944d12b25f7e67e88e630e08" alt="首页" /></li>
+  <li>Blog列表页
+<img src="https://note.youdao.com/yws/api/personal/file/WEB0689976da521ffa8c3db32fe7d07dc0a?method=download&amp;shareKey=84f6104669dcf3ef80efb2079d0341a8" alt="Blog列表页" /></li>
+  <li>两篇Post
+<img src="https://note.youdao.com/yws/api/personal/file/WEB9c4cb09ccf5cab5f70d3a5090f93172c?method=download&amp;shareKey=14c096c38d3d3443ea3c38272366c003" alt="Post1" />
+<img src="https://note.youdao.com/yws/api/personal/file/WEB3f92a653d56125dd53465194c02ce8bd?method=download&amp;shareKey=dd9c9532cf1752caf93340c7751d790a" alt="Post2" /></li>
+  <li>staff列表页
+<img src="https://note.youdao.com/yws/api/personal/file/WEB41ebfcc0cc25a51547b15d103fc85d32?method=download&amp;shareKey=fff361cca6c7fa04af0e49e1d519381c" alt="staff列表页" /></li>
+  <li>一个作者简介页面
+<img src="https://note.youdao.com/yws/api/personal/file/WEBdec572b98d667356d726f40f7e08fbb0?method=download&amp;shareKey=30ce43aa75ef49b91b6ca85674002b3b" alt="一个作者简介页面" /></li>
+  <li>一个About页面
+<img src="https://note.youdao.com/yws/api/personal/file/WEB92312f854d2c7cbb0cf72c10b4338fbf?method=download&amp;shareKey=17bb60d751eb401b8f7340c6a96bd344" alt="一个About页面" />
+    <h2 id="三实验过程">三、实验过程</h2>
+    <p>1、安装WSL
+2、安装visual studio code和Remote插件
+3、安装jekyll
+4、学习jekyll的九步基本用法
+5、将Markdown练习内容以博客形式发到网站上
+6、安装Nginx
+7、将编译后的_site目录部署到Nginx上
+8、将源代码Push到GitHub上
+9、写实验报告，并重新把网站源代码push到GitHub上</p>
+    <h2 id="四总结">四、总结</h2>
+    <p>　　实验中，我遇到的第一个问题是常常登陆不上github，后来通过百度达成了科学上网才解决了这个问题，然后第二个问题是安装jekyll时各种报错，通过询问老师和百度搜索后成功安装了Jekyll。第三个问题是学习Jekyll的第九个步骤时，作者简介页面下没有博客链接，博客下也没有作者简介的链接，后来通过多次检查和重做后解决了这个问题。第四个遇到的问题是不会把_posts文件夹部署到Nginx上，通过查看老师提供的课程导图，以及在同学的帮助下解决了这个问题。第五个问题是不会把网站push到Github上，在与同学交流后，也解决了这个问题。最后一个问题是一开始没有找到合适的图床，后来采用了有道云笔记来作图床。</p>
+  </li>
+</ul>
+:ET
