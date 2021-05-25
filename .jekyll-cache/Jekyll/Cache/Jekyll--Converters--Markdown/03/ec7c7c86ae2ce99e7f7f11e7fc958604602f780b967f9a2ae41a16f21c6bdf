@@ -1,35 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>百度学院学习记录</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-    <nav>
-    
-      <a href="/" >Home</a>
-    
-      <a href="/about.html" >About</a>
-    
-      <a href="/blog.html" >Blog</a>
-    
-      <a href="/staff.html" >Staff</a>
-    
-      <a href="/第三次作业实验报告.html" >第三次作业实验报告</a>
-    
-  </nav>
-    <h1>百度学院学习记录</h1>
-
-<p>
-  10 May 2021
-  
-  
-    - <a href="/authors/Yan%20Shangxue.html">Yan Shangxue</a>
-  
-</p>
-
-<h2 id="第一天">第一天</h2>
+I"�<h2 id="第一天">第一天</h2>
 <h3 id="targetget-moving">target:get moving</h3>
 <h3 id="time-spent15h">time spent：1.5h</h3>
 <h3 id="learned-understand-the-use-of-csshtmlhtml5javasciptphphttp-protocol">learned: understand the use of css,html,html5,javascipt,php,http protocol.</h3>
@@ -64,6 +33,4 @@
 
 <h2 id="第十三天-第十四天">第十三天-第十四天</h2>
 <p>因课业繁杂，中断了学习</p>
-
-  </body>
-</html>
+:ET
